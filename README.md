@@ -1,3 +1,5 @@
+# Refer to components folder for the actual tic tac toe game implementation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
