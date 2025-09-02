@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react';
 /* React App Tic Tac Toe Game that lets you play against yourself. 
 It uses React hooks to manage state and handle user interactions. 
@@ -121,6 +120,3 @@ function calculateWinner(squares) {
   }
   return null;
 }
-=======
-// Refer to components folder for the actual tic tac toe game implementation
->>>>>>> 903c9ac5263baeefba85e10d82a031c6e723c72c
