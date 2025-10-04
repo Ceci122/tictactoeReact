@@ -5,8 +5,8 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <>
-    <header>Tic Tac Toe Game</header>
+  <React.StrictMode>
+    <h1>Tic Tac Toe Game</h1>
     <App />
-  </>
+  </React.StrictMode>
 );
