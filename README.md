@@ -1,4 +1,4 @@
-# React + Tailwindccs + Daisyui
+# Refer to components folder for the actual tic tac toe game implementation
 
 # Getting Started with Create React App
 
