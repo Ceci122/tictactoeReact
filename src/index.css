@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap');
+
+body {
+  font-family: "Fredoka", sans-serif;
+  @apply bg-gradient-to-br from-pink-200 via-purple-200 to-sky-200 text-gray-800;
+}
